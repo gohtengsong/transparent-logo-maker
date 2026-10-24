@@ -5,7 +5,7 @@ Browser-based tool to remove white/mosaic backgrounds from logos and export tran
 A fast, fully client-side web tool designed to cleanly remove solid white backgrounds and fake checkerboard/mosaic patterns from logos and graphics, exporting true 32-bit transparent PNGs that work seamlessly in Microsoft Word, PowerPoint, and web designs.
 
 ## 🚀 Live Demo
-👉 **[Launch App](https://gohtengsong.github.io/transparent-logo-maker/)**
+👉 **[Launch App](https://gohtengsong.github.io/index.html/)**
 
 ---
 
